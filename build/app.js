@@ -23,7 +23,7 @@
   }).config([
     '$routeProvider', function($routeProvider) {
       return $routeProvider.when('Book', {
-        templateUrl: './book.html'
+        templateUrl: './views/book.html'
       }).when('/', {
         templateUrl: './views/idxmain.html'
       });
