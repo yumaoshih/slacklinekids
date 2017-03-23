@@ -1,8 +1,0 @@
-src/
-node_modules/
-img/
-package.json
-*.coffee
-*.yml
-docs/
-

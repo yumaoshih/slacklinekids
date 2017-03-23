@@ -1,1 +1,0 @@
-!function(n){n(document).ready(function(){var o=new Date(2018,1,1);n(".countdown").countdown({until:o,format:"dHMS",padZeroes:!0})})}(this.jQuery);
