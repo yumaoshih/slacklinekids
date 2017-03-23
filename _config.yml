@@ -1,7 +1,7 @@
 gems:
   - jekyll-redirect-from
 
-redirect_from: 
-  - "/build"
+redirect_to: 
+  - "http://tw.yahoo.com"
 
 
