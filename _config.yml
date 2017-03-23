@@ -1,4 +1,6 @@
 ---
 redirect_from: "/build"
 ---
+gems:
+  - jekyll-redirect-from
 theme: jekyll-theme-cayman
